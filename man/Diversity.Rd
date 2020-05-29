@@ -25,7 +25,7 @@ a list of seven objects: \cr\cr
 }
 \description{
 \code{Diversity}: Estimating a continuous diversity profile in one community including species rich-
-ness, Shannon diversity and Simpson diversity). This function also supplies plots of empirical and
+ness, Shannon diversity and Simpson diversity. This function also supplies plots of empirical and
 estimated continuous diversity profiles. Various estimates for Shannon entropy and the Gini-
 Simpson index are also computed. All five types of data are supported: Type (1) abundance data
 (datatype="abundance"), Type (1A) abundance-frequency counts
